@@ -1,0 +1,24 @@
+{
+   "type": "pages",
+   "headline": "TV & Movies",
+   "template": {
+      "layout": "1,0,4,4"
+   },
+   "items": [
+      {
+         "title": "TV Ott-play",
+         "image": "http://ott-play.com/android-chrome-192x192.png",
+         "action": "link:http://ott-play.com/f/"
+      },
+      {
+         "title": "Movies Kinopub",
+         "image": "http://kpms.cc/logo512.png",
+         "action": "link:http://kpms.cc/bootstrap.html"
+      },
+      {
+         "title": "Movies Lampa",
+         "image": "http://lampa.mx/msx-logo.png",
+         "action": "link:http://lampa.mx"
+      }
+   ]
+}
